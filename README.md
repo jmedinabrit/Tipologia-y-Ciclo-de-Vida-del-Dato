@@ -36,8 +36,6 @@ Para más detalle, ver el apartado 6 del guión de la práctica o del notebook.
 
 La extración como para el proceso y curación de los datos, así como su representación se ha realizado gracias a un notebook de [jupyter](https://jupyter.org/)
 
-Con respecto a como ejecutar el notebook utilizando [docker](https://www.docker.com/), se puede consultar en este [documento](doc/install/docker.md)
-
 El notebook con el código se encuentra en el directorio
 
  - [`subdataset/data_electricity_prices_household_consumers.csv`](subdataset/data_electricity_prices_household_consumers.csv)
