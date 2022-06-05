@@ -24,7 +24,7 @@ Con respecto a como ejecutar el notebook utilizando [docker](https://www.docker.
 
 El notebook con el código se encuentra en el directorio
 
- - [`Notebook/JonasMedina_Pract2.ipynb`](notebook/pract-2.ipynb)
+ - [`Notebook/JonasMedina_Pract2.ipynb`](Notebook/JonasMedina_Pract2.ipynb)
  
   
  ### Dataset 
