@@ -9,7 +9,6 @@ Práctica II de la asignatura de Tipólogía y ciclo de vida de los datos, segun
 ## Componentes de la práctica
 
  - Jonás Medina Brito (jmedinabrit@uoc.edu)
- - Miguel Rafael Esteban Martín (mestebanmart@uoc.edu)
  
 ## Guía  de la práctica
 
@@ -25,7 +24,7 @@ Con respecto a como ejecutar el notebook utilizando [docker](https://www.docker.
 
 El notebook con el código se encuentra en el directorio
 
- - [`notebook/pract-2.ipynb`](notebook/pract-2.ipynb)
+ - [`Notebook/JonasMedina_Pract2.ipynb`](notebook/pract-2.ipynb)
  
   
  ### Dataset 
